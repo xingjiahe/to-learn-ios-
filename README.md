@@ -1,14 +1,14 @@
 # to-learn-ios-
-#冒泡
+冒泡
 
 
 
 
 
 
-  int a[5] = {1,3,2,4,5};
-  BOOL f = 1 ;
-  int t =0 ;
+int a[5] = {1,3,2,4,5};
+BOOL f = 1 ;
+int t =0 ;
 
     for (int  i = 0;  i <  5 -1 &&f; i++) {
         f = 0;
