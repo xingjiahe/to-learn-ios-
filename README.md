@@ -1,6 +1,4 @@
 # to-learn-ios-
-maopao
-
 int a[5] = {1,3,2,4,5};
 BOOL f = 1 ;
 int t =0 ;
